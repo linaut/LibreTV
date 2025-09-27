@@ -129,7 +129,6 @@ const API_SITES = {
         name: 'souav资源',
         adult: true
     }
-    }
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
